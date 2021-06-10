@@ -30,6 +30,6 @@ $nuevacadena='xd';
 $cadena='10 11 12 AB CD EF';
 echo str_replace($cadBusqueda,$nuevacadena,$cadena,$count); #1 Lo que se busca,2 lo que se va a cambiar,3 La cadena a analizar,4 Retorna cuantas veces se encontro algo
 
-
+#hola mundo 
 
  ?>
